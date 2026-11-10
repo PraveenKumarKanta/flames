@@ -66,4 +66,4 @@ elif answer == 'm':
 elif answer == 'e':
         print('ENEMIES')
 elif answer == 'S':
-        print('SEX')
+        print('SISTER')
